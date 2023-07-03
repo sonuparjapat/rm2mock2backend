@@ -1,7 +1,11 @@
 {
-    "data":[{
+    "users":[{
         "id":1,
         "name":"sonu",
-        "email":"sonu992000parjapat@gmail.com"
+        "age":19,
+        "place":"haryana",
+        "batchname":"WEB-18",
+        "profession":"FSD"
+
     }]
 }
